@@ -1,0 +1,23 @@
+{
+  "name": "ko-breadcrumb",
+  "version": "1.0.0",
+  "description": "A knockout js breadcrumb component",
+  "main": "ko-breadcrumb.js",
+  "dependencies": {
+    "knockout": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewnitschke/ko-breadcrumb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewnitschke/ko-breadcrumb/issues"
+  },
+  "homepage": "https://github.com/matthewnitschke/ko-breadcrumb#readme"
+}
